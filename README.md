@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Étudiant ingénieur en Technologies du Web et de l’Internet à <strong>ESPRIT</strong><br>
-💡 Passionné par le développement web, les microservices, et l’intelligence artificielle<br>
+💡 Passionné par le développement web, et l’intelligence artificielle<br>
 🌍 Basé à Tunis, Tunisie
 </p>
 
@@ -10,7 +10,6 @@
 
 ## 🧠 À propos de moi
 
-- 🎯 À la recherche d’un stage PFE pour 2025
 - 👨‍💻 J’adore construire des applications web modernes et performantes
 - 🧩 Je m'intéresse aussi à l'intégration de l'IA dans les plateformes web
 - 🤝 Membre actif du club **Tuni’Act Manar Evo**
